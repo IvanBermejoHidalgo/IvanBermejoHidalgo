@@ -11,10 +11,10 @@ Soy **Iván**, un desarrollador apasionado por la tecnología y el aprendizaje c
 - Looker Studio
 
 ## 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/ivanbermejohidalgo)
 - [Correo Electrónico](mailto:ibermejo@elpuig.xeill.net)
 
 ## 🌟 Proyectos Destacados
-- [Calculadora Sencilla en JavaScript](https://github.com/tu-usuario/calculadora-sencilla-js)
 - [ShopList](https://github.com/IvanBermejoHidalgo/ShopList)
 
 ## 🌱 Actualmente aprendiendo

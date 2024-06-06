@@ -11,7 +11,6 @@ Soy **Iván**, un desarrollador apasionado por la tecnología y el aprendizaje c
 - Looker Studio
 
 ## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/ivanbermejohidalgo)
 - [Correo Electrónico](mailto:ibermejo@elpuig.xeill.net)
 
 ## 🌟 Proyectos Destacados

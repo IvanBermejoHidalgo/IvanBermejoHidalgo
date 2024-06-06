@@ -3,7 +3,7 @@
 Soy **Iván**, un desarrollador apasionado por la tecnología y el aprendizaje continuo. Aquí encontrarás información sobre mis proyectos, habilidades y cómo contactarme.
 
 ## 🔧 Tecnologías y Herramientas
-- Android
+- Android Studio
 - Java
 - HTML5
 - CSS
